@@ -10,7 +10,7 @@ This project demonstrates how to integrate **Large Language Models (LLMs)** into
 The project is composed of **two Jupyter notebooks**, each showing a different way to use AI models in applications without paid subscriptions.
 The main goal is to **find, test, and integrate free AI models** that can be used in real projects.
 
-# [Groq_Api.ipynb](Groq_Api.ipynb)
+# [Groq_API.ipynb](Groq_API.ipynb)
 
 
 ##  Overview
